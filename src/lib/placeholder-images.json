@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "Abstract blue and white shapes flowing",
+      "imageUrl": "https://picsum.photos/seed/hero-fireflow/1920/1080",
+      "imageHint": "abstract blue"
+    },
+    {
+      "id": "about-us-hero",
+      "description": "A diverse team collaborating in a modern office",
+      "imageUrl": "https://picsum.photos/seed/about-hero/1200/600",
+      "imageHint": "team office"
+    },
+    {
+      "id": "service-plumbing",
+      "description": "A plumber fixing a sink with tools",
+      "imageUrl": "https://picsum.photos/seed/plumbing/500/350",
+      "imageHint": "plumber sink"
+    },
+    {
+      "id": "service-electrical",
+      "description": "An electrician inspecting a circuit breaker panel",
+      "imageUrl": "https://picsum.photos/seed/electrical/500/350",
+      "imageHint": "electrician circuit"
+    },
+    {
+      "id": "service-carpentry",
+      "description": "A carpenter precisely measuring a piece of wood",
+      "imageUrl": "https://picsum.photos/seed/carpentry/500/350",
+      "imageHint": "carpenter wood"
+    },
+    {
+      "id": "service-appliances",
+      "description": "Technician repairing a home appliance",
+      "imageUrl": "https://picsum.photos/seed/appliances/500/350",
+      "imageHint": "appliance repair"
+    },
+    {
+      "id": "service-painting",
+      "description": "A painter carefully painting a wall with a roller",
+      "imageUrl": "https://picsum.photos/seed/painting/500/350",
+      "imageHint": "painter wall"
+    },
+    {
+      "id": "service-cleaning",
+      "description": "A person cleaning a modern living space",
+      "imageUrl": "https://picsum.photos/seed/cleaning/500/350",
+      "imageHint": "house cleaning"
+    },
+    {
+      "id": "blog-post-1",
+      "description": "A well-organized toolbox",
+      "imageUrl": "https://picsum.photos/seed/blog1/800/450",
+      "imageHint": "toolbox tools"
+    },
+    {
+      "id": "blog-post-2",
+      "description": "A person sketching blueprints for a project",
+      "imageUrl": "https://picsum.photos/seed/blog2/800/450",
+      "imageHint": "blueprints sketch"
+    },
+    {
+      "id": "blog-post-3",
+      "description": "A modern smart home dashboard on a tablet",
+      "imageUrl": "https://picsum.photos/seed/blog3/800/450",
+      "imageHint": "smart home"
+    }
+  ]
+}
